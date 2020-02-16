@@ -1,0 +1,54 @@
+{
+  "name": "monabot",
+  "version": "0.1.0",
+  "description": "A Discord Bot using Discord.JS",
+  "main": "index.js",
+  "scripts": {
+    "run": "standard && npm run-script runmon",
+    "start": "node .",
+    "runmon": "nodemon .",
+    "test": "standard",
+    "fix": "standard --fix"
+  },
+  "author": "Southpaw",
+  "contributors": [
+    "TMUniversal"
+  ],
+  "license": "UNLICENSED",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "common-tags": "^1.8.0",
+    "discord.js": "^11.5.1",
+    "dotenv-safe": "^8.2.0",
+    "mongodb": "^3.5.2",
+    "mongojs": "^3.1.0",
+    "mongoose": "^5.8.11",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.0",
+    "strip-indent": "^3.0.0",
+    "urban": "^0.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "standard": "^14.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SouthxPaw/MonaBot.git"
+  },
+  "keywords": [
+    "dicord",
+    "bot",
+    "discord.js",
+    "SouthxPaw",
+    "TMUniversal",
+    "monabot",
+    "mona"
+  ],
+  "bugs": {
+    "url": "https://github.com/SouthxPaw/MonaBot/issues"
+  },
+  "homepage": "https://github.com/SouthxPaw/MonaBot#readme"
+}
