@@ -25,7 +25,7 @@
     "mongojs": "^3.1.0",
     "mongoose": "^5.8.11",
     "ms": "^2.1.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "request": "^2.88.0",
     "strip-indent": "^3.0.0",
     "urban": "^0.3.2"
